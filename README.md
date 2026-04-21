@@ -1,10 +1,10 @@
 # T3 Mobile - Form Identitas Mahasiswa
 
 ## Nama
-[Nama Anda]
+Muhammad Ridho Fahru Rozy
 
 ## NIM
-[NIM Anda]
+F1D022076
 
 ## Deskripsi
 Aplikasi Android sederhana untuk menampilkan form identitas mahasiswa dengan validasi input.
