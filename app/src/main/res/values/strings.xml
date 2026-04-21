@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">T3 Mobile</string>
+    <string name="form_title">Form Identitas Mahasiswa</string>
+    <string name="nama_label">Nama Lengkap</string>
+    <string name="nama_hint">Masukkan nama lengkap</string>
+    <string name="jenis_kelamin_label">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="hobi_label">Hobi</string>
+    <string name="membaca">Membaca</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="coding">Coding</string>
+    <string name="submit_button">Tampilkan Data</string>
+    <string name="error_nama_kosong">Nama tidak boleh kosong</string>
+    <string name="error_jenis_kelamin">Jenis kelamin harus dipilih</string>
 </resources>
