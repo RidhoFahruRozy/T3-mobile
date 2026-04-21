@@ -30,8 +30,8 @@ Aplikasi Android sederhana untuk menampilkan form identitas mahasiswa dengan val
 - Toast (untuk pesan error)
 
 ## Screenshots
-*(Tambahkan screenshots hasil aplikasi di sini)*
-
+![image](Screenshot 2026-04-21 232906)
+![image](Screenshot 2026-04-21 232856)
 ## Cara Menjalankan
 1. Clone repository ini
 2. Buka di Android Studio
